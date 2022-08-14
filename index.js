@@ -30,11 +30,14 @@ function wasHere(myName) {
   return `${myName} was here`;
 }
 const answer = wasHere("Tom");
-const answer2 = wasHere("Jim")
-const answer3 = wasHere("Jerry")
+const answer2 = wasHere("Jim");
+const answer3 = wasHere("Jerry");
 console.log(answer);
 console.log(answer2);
 console.log(answer3);
+//Hello this is a change 
+
+
 
 //What are some data types?
 // String
